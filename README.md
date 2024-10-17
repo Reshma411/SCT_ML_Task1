@@ -58,7 +58,7 @@ Results:
 _________
 After training the model, you can evaluate its performance using the following metrics:
 
-Mean Squared Error (MSE)
+Mean Squared Error (MSE).
 Additionally, you can visualize the results by plotting the actual vs predicted values or using other relevant visualizations.
 
 Contributions:
