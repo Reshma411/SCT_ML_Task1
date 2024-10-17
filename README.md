@@ -1,4 +1,4 @@
-House Price Prediction using Linear Regression
+House Price Prediction using Linear Regression:
 This project implements a Linear Regression model to predict house prices based on various features such as area, number of bedrooms, age of the property, and location. The project includes several preprocessing techniques such as One-Hot Encoding, Feature Scaling, and Data Normalization to prepare the dataset before training the model.
 
 Table of Contents:
