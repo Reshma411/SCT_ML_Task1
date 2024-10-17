@@ -25,7 +25,7 @@ To prepare the dataset for the Linear Regression model, several preprocessing st
 Missing values in the dataset (if any) are handled using methods like mean/mode/median imputation.
 
 2. One-Hot Encoding
-Categorical features like Location are transformed into numerical values using One-Hot Encoding. For example:
+Categorical features like Location are transformed into numerical values using One-Hot Encoding. 
 
  
 3. Feature Scaling
@@ -59,7 +59,6 @@ _________
 After training the model, you can evaluate its performance using the following metrics:
 
 Mean Squared Error (MSE)
-R² Score
 Additionally, you can visualize the results by plotting the actual vs predicted values or using other relevant visualizations.
 
 Contributions:
