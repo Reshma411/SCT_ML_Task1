@@ -60,11 +60,6 @@ After training the model, you can evaluate its performance using the following m
 
 Mean Squared Error (MSE)
 R² Score
-Example results:
-
-Actual Price ($)	Predicted Price ($)
-500,000	480,000
-350,000	360,000
 Additionally, you can visualize the results by plotting the actual vs predicted values or using other relevant visualizations.
 
 Contributions:
